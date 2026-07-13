@@ -1,0 +1,2 @@
+# CloudNotes uses the Python standard library only.
+# No third-party packages are required.

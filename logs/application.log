@@ -1,0 +1,9 @@
+2026-07-13T07:44:29Z INFO starting CloudNotes service in production environment
+2026-07-13T07:44:29Z INFO resolving service host cloudnotes.internal:8080
+2026-07-13T07:44:29Z ERROR unable to resolve host cloudnotes.internal
+2026-07-13T07:44:29Z ERROR service unavailable
+2026-07-13T07:44:29Z INFO validating TLS configuration
+2026-07-13T07:44:29Z WARNING TLS is disabled
+2026-07-13T07:44:29Z WARNING deployment does not meet security requirements
+2026-07-13T07:44:29Z ERROR service startup failed
+2026-07-13T07:44:29Z ERROR review configuration and logs to diagnose the incident
